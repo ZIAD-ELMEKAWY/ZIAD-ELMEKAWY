@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Linkedin](Linkedin)
 
-- 💬 Ask me about **C, Python, PIC Microcontroller, DaVinci Resolve, Adobe Premier, CapCut**
+- 💬 Ask me about **C, Python, PIC Microcontroller, ESP32 IOT Applications, Software Testing, Introduction to CS50**
 
 - 📫 How to reach me **ziadelmekawy3@gmail.com**
 
