@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋,I am Ziad Elmekawy</h1>
-<h3 align="center">An embedded software engineer.</h3>
+<h3 align="center">An embedded software engineer from Egypt.</h3>
 <img align="right" alt="Coding" width="400" border-radius= "25" src= "https://www.bing.com/th/id/OGC.4b97b8575b63cfb13eec82362e0b1dde?pid=1.7&rurl=https%3a%2f%2fverisoft.ai%2fwp-content%2fuploads%2f2022%2f05%2fprogrammer-animation.gif&ehk=TLXerdGkC2zJIWcaf%2fAfo06CaZFowMB7wLczX9sIF3Q%3d" >
-- 🔭 I’m currently working on [PIC18F4620](https://github.com/ZIAD-ELMEKAWY/PIC18F4620-Driver.git)
+- 🔭 I’m currently working on [ESP32 and STM32](https://github.com/ZIAD-ELMEKAWY/)
 
-- 🌱 I’m currently learning **C, PIC Microcontroller, DaVinci Resolve, Adobe Premier, CapCut**
+- 🌱 I’m currently learning **C++, ARM , ESP32 , IOT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZIAD-ELMEKAWY](https://github.com/ZIAD-ELMEKAWY)
 
 - 📝 I regularly write articles on [Linkedin](Linkedin)
 
-- 💬 Ask me about **C, Python, PIC Microcontroller, ESP32 IOT Applications, Software Testing, Introduction to CS50**
+- 💬 Ask me about **C, Python, PIC Microcontroller, DaVinci Resolve, Adobe Premier, CapCut**
 
 - 📫 How to reach me **ziadelmekawy3@gmail.com**
 
@@ -21,4 +21,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
