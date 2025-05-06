@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I am Ziad Elmekawy</h1>
-<h3 align="center">An embedded software engineer from Egypt.</h3>
+<h3 align="center">An embedded IOT software engineer from Egypt.</h3>
 <img align="right" alt="Coding" width="400" border-radius= "25" src= "https://www.bing.com/th/id/OGC.4b97b8575b63cfb13eec82362e0b1dde?pid=1.7&rurl=https%3a%2f%2fverisoft.ai%2fwp-content%2fuploads%2f2022%2f05%2fprogrammer-animation.gif&ehk=TLXerdGkC2zJIWcaf%2fAfo06CaZFowMB7wLczX9sIF3Q%3d" >
 - 🔭 I’m currently working on [ESP32 and STM32](https://github.com/ZIAD-ELMEKAWY/)
 
