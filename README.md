@@ -2,7 +2,7 @@
 <h3 align="center">An embedded software engineer from Egypt.</h3>
 <img align="right" alt="Coding" width="400" border-radius= "25" src= "https://www.invoxico.com/wp-content/uploads/2025/05/data-science-careers.png" >
 
-- 🔭 I’m currently working on [PIC18F4620](https://github.com/ZIAD-ELMEKAWY/PIC18F4620-Driver.git)
+- 🔭 I’m currently working on [ATMEGA32 and ESP32]([https://github.com/ZIAD-ELMEKAWY/PIC18F4620-Driver.git](https://github.com/ZIAD-ELMEKAWY/ESP32.git))
 
 - 🌱 I’m currently learning **AVR, MQTT and Node Red**
 
